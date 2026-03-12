@@ -1,26 +1,26 @@
-# ⚠️ Proyecto Archivado
+# ⚠️ Archived Project
 
-**Portfolio Anterior - Reemplazado por el nuevo portfolio en Nuxt**
-
----
-
-## Estado del Proyecto
-
-Este repositorio está **archivado** y ya no recibe mantenimiento activo.
-
-### ¿Por qué se archivó?
-
-- Portfolio anterior del desarrollador
-- Reemplazado por el nuevo portfolio desarrollado en Nuxt
-- Se archiva como referencia del trabajo anterior
+**Previous Portfolio - Replaced by New Nuxt Portfolio**
 
 ---
 
-## Información Original
+## Project Status
 
-Sitio web de portfolio personal desarrollado con Gatsby.
+This repository is **archived** and is no longer actively maintained.
 
-## Tecnologías
+### Why was this archived?
+
+- Developer's previous portfolio
+- Replaced by new portfolio built with Nuxt
+- Archived as reference of previous work
+
+---
+
+## Original Information
+
+Personal portfolio website developed with Gatsby.
+
+## Technologies
 
 - Gatsby
 - React
@@ -28,4 +28,4 @@ Sitio web de portfolio personal desarrollado con Gatsby.
 
 ---
 
-**Nota:** Este repositorio se mantiene como referencia histórica. El portfolio actual está disponible en [`portfolio`](https://github.com/cativo23/portfolio).
+**Note:** This repository is kept as historical reference. Current portfolio available at [`portfolio`](https://github.com/cativo23/portfolio).
